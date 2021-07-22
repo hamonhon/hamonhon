@@ -1,0 +1,39 @@
+.bash_history
+.condarc
+.gitconfig
+.ipython/
+.jupyter/
+.lesshst
+.matplotlib/
+.vscode/
+3D Objects/
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+MicrosoftEdgeBackups/
+Music/
+My Documents/
+NTUSER.DAT
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+OneDrive/
+Pictures/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+Start Menu/
+Videos/
+anaconda3/
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+seaborn-data/
